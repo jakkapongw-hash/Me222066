@@ -25,6 +25,7 @@
 				<li><a href="room.php">ห้องพัก&ราคา 100,000,000,000,000,000,000,000,000,000,000 บาท</li>
 				<li><a herf="guest.php">สมุดเยี่ยมมมมมมมมมมมมมมมมมมมมมมมมมมมมมมม</li>
 				<li><a href="contact.php">ติดต่อvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</li>
+				<li><a href="facility.php">สิ่งอำนวยความสะดวก</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
